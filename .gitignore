@@ -3,3 +3,4 @@ admin/mvnw
 admin/.mvn/wrapper/maven-wrapper.jar
 admin/.mvn/wrapper/maven-wrapper.properties
 admin/src/test/java/com/roshan/admin/AdminApplicationTests.java
+.idea/
